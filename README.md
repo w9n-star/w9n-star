@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm w9n-star 👋
+
+Welcome to my GitHub profile! 
 
 <!--
-**w9n-star/w9n-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Projects
 
-Here are some ideas to get you started:
+Here are some of my projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Awesome App](https://github.com/w9n-star/awesome-app): A cool app that does awesome things.
+- [Data Visualizer](https://github.com/w9n-star/data-visualizer): Visualize your data with beautiful charts.
+- [Portfolio Website](https://github.com/w9n-star/portfolio): My personal portfolio built with React.
+
+## 📫 Contact Me
+
+- Email: your-email@example.com
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 -->
